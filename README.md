@@ -25,7 +25,7 @@ All tasks are stored in a simple `tasks.txt` file in the project directory.
 
 ## Screenshots
 
-*(Add screenshots here if needed)*
+![Task Manager Screenshot](https://github.com/Abhishek-00007/SimpleTaskManager-Java/blob/main/Screenshot.png)
 
 ## Author
 
